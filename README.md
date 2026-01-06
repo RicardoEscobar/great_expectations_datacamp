@@ -83,10 +83,10 @@ source .venv/Scripts/activate
 .\.venv\Scripts\Activate
 ```
 
-> **Tip:** Always verify your Python version before creating the environment:
-> ```bash
-> python3.12 --version
-> ```
+**Tip:** Always verify your Python version before creating the environment:
+```bash
+python3.12 --version
+```
 
 ---
 
